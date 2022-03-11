@@ -4,8 +4,8 @@
   "description": "testing",
   "main": "index.js",
   "scripts": {
-    "test": "curl"
-  },
+   "start": "node index.js"
+},
   "repository": {
     "type": "git",
     "url": "nodejsAPI test"
