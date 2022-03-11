@@ -42,7 +42,8 @@
             "molar_heat": null, 
             "named_by": null, 
             "number": 2, 
-            "period": 1, 
+            "period": 1,             "period": 1, 
+
             "phase": "Gas", 
             "source": "https://en.wikipedia.org/wiki/Helium", 
             "spectral_img": "https://en.wikipedia.org/wiki/File:Helium_spectrum.jpg", 
