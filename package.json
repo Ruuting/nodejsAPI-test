@@ -11,8 +11,14 @@
     
   },
   "keywords": [
-    "apitest"
+    "API"
   ],
   "author": "Ingmar",
-  "license": "UNLICENSED"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "heroku": "^7.30.1",
+    "cors":"^2.8.5"
+  }
 }
