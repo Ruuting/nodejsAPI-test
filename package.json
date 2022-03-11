@@ -16,7 +16,7 @@
   "author": "Ingmar",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
-    "heroku": "^7.30.1"
+    "heroku": "^7.30.1",
+    "cors":"^2.8.5"
   }
 }
